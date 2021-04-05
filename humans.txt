@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	Richard Bell R@b.com
 
 # THANKS
 
