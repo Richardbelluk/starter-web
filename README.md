@@ -16,3 +16,5 @@ and some more
 and some more
 
 and some more
+
+GIT Copyright
