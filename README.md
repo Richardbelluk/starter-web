@@ -24,4 +24,4 @@ GIT Copyright
 
 more changes
 
-stashing changese
+stashing changes, even more changes
